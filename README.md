@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Kickstarter campaign outcome trend analysis
+# An Analysis of Kickstarter Campaigns
+Kickstarter campaign outcome analysis
